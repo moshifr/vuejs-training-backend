@@ -1,6 +1,6 @@
 # Backend server for vue.js training
 
-This is the back-end API to run locally for the [Vue.js training session](https://github.com/moshi/vuejs-training)
+This is the back-end API to run locally for the [Vue.js training session](https://github.com/moshifr/vuejs-training)
 
 ## Setup
 
